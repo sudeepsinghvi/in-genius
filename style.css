@@ -8,11 +8,10 @@
   height:50px;
   width:100%;
   background-color:red;
-  text-align:center
+  color:white;
 }
 h1{
   color:red;
-  text-align:center;
 }
 
 footer{
@@ -24,5 +23,4 @@ footer{
   height: 40px;
   background: grey;
   color:yellow;
-  text-align:center;
 }
